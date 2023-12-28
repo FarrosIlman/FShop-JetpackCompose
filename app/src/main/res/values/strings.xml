@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FShop</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="harga">Rp %d</string>
+    <string name="deskripsi"></string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d</string>
+    <string name="total_order">Total pesanan : Rp %d</string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Dicoding Reward</string>
+    <string name="share_message">Hai, saya baru saja membeli %1$d produk di FShop dengan total Rp %2$d . Bagaimana denganmu?</string>
+    <string name="profile_settings">Settings Profile</string>
+</resources>
